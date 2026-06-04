@@ -85,6 +85,10 @@ python app/mcp_server.py
 | GET | `/summary/{user_id}` | Financial health report |
 | GET | `/health` | Health check |
 
+## Telegram Chat Bot
+<img width="593" height="805" alt="telegram_bot" src="https://github.com/user-attachments/assets/aaf397a9-4d15-4fed-bbd4-c3f18f4cfdda" />
+
+
 ## MCP Server (Claude Desktop)
 
 Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
@@ -101,6 +105,13 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 ```
 
 Claude Desktop will discover all financial tools automatically.
+
+### Connector - 
+<img width="1425" height="510" alt="claude_mcp" src="https://github.com/user-attachments/assets/e2aa1e0a-2de8-4466-8107-e5bb74c52c28" />
+
+
+### Claude Desktop Chat - 
+<img width="791" height="555" alt="claude_chat" src="https://github.com/user-attachments/assets/23feaedf-6fc4-459b-b2d2-0c18655b8dd1" />
 
 
 ## Environment Variables
